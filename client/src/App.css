@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Rancho&family=Roboto:wght@100..900&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+.active{
+text-decoration: underline;
+font-weight: 700;
+color:#007bff
+}
+.rancho{
+     font-family: "Rancho", cursive;
+}
+.oswald{
+    font-family: "Oswald", sans-serif;
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+}
